@@ -4,4 +4,4 @@
 import os
 
 # Running
-os.system("python source/rehber.py")
+os.system("python source/guide.py")
