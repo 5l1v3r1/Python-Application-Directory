@@ -1,1 +1,1 @@
-# Python - Rehber Application
+# Python - Application Directory
